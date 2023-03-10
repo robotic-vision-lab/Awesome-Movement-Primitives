@@ -20,9 +20,11 @@ and other methods.
 ## Dynamic Movement Primitives
 
 ### Software
-[studywolf/pydmps](https://github.com/studywolf/pydmps):  [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
+[studywolf/pydmps](https://github.com/studywolf/pydmps):  
+[![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
-[stulp/dmpbbo](https://github.com/stulp/dmpbbo):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
+[stulp/dmpbbo](https://github.com/stulp/dmpbbo):  
+[![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
 
 [sniekum/DMP](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
