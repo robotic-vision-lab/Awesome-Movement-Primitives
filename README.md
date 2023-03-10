@@ -21,7 +21,9 @@ and other methods.
 
 ### Software
 
-[sniekum/DMP](https://img.shields.io/github/stars/sniekum/dmp?style=social)(https://github.com/sniekum/dmp)
+[![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/)
+
+[!sniekum/DMP](https://img.shields.io/github/stars/sniekum/dmp?style=social)(https://github.com/sniekum/dmp)
 
 https://github.com/stulp/dmpbbo
 
