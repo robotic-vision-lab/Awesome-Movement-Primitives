@@ -30,9 +30,9 @@ and other methods.
 
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):  [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
-[AlexanderFabisch/PyDMP](https://github.com/AlexanderFabisch/PyDMP):  [![GitHub stars](https://img.shields.io/github/stars/AlexanderFabisch/PyDMP?style=social)](https://github.com/AlexanderFabisch/PyDMP/stargazers/)
-
 [chauby/PyDMPs_Chauby](https://github.com/chauby/PyDMPs_Chauby):  [![GitHub stars](https://img.shields.io/github/stars/chauby/PyDMPs_Chauby?style=social)](https://github.com/chauby/PyDMPs_Chauby/stargazers/)
+
+[AlexanderFabisch/PyDMP](https://github.com/AlexanderFabisch/PyDMP):  [![GitHub stars](https://img.shields.io/github/stars/AlexanderFabisch/PyDMP?style=social)](https://github.com/AlexanderFabisch/PyDMP/stargazers/)
 
 [mginesi/dmp_pp](https://github.com/mginesi/dmp_pp):  [![GitHub stars](https://img.shields.io/github/stars/mginesi/dmp_pp?style=social)](https://github.com/mginesi/dmp_pp/stargazers/)
 
