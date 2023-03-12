@@ -36,7 +36,7 @@ and other methods.
 [sniekum/dmp](https://github.com/sniekum/dmp): Robot-agnostic implementation for ROS. 
 
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 [![GitHub stars](https://img.shields.io/github/stars/sniekum/dmp?style=social)](https://github.com/sniekum/dmp/stargazers/) 
 
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. 
