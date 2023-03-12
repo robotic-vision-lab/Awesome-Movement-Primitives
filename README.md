@@ -281,39 +281,93 @@ and other methods.
 
 
 ## Probabilistic Movement Primitives
-[dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives):  [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
+[dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. 
 
-[sebasutp/promp](https://github.com/sebasutp/promp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp?style=social)](https://github.com/sebasutp/promp/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
-[baxter-flowers/promplib](https://github.com/baxter-flowers/promplib):  [![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/promplib?style=social)](https://github.com/baxter-flowers/promplib/stargazers/)
+[sebasutp/promp](https://github.com/sebasutp/promp):  Library that computes trajectory likelihood of ProMP, trajectory sampling, and save/load.
 
-[mjm522/promps_python](https://github.com/mjm522/promps_python):  [![GitHub stars](https://img.shields.io/github/stars/mjm522/promps_python?style=social)](https://github.com/mjm522/promps_python/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp?style=social)](https://github.com/sebasutp/promp/stargazers/)
 
-[sebasutp/promp-cpp](https://github.com/sebasutp/promp-cpp):  [![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp-cpp?style=social)](https://github.com/sebasutp/promp-cpp/stargazers/)
+[baxter-flowers/promplib](https://github.com/baxter-flowers/promplib): Features interactive learning componenet to automatically cluster primitives based on standard deviation.
 
-[herambnemlekar/probabilistic-movement-primitives](https://github.com/herambnemlekar/probabilistic-movement-primitives):  [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/probabilistic-movement-primitives?style=social)](https://github.com/herambnemlekar/probabilistic-movement-primitives/stargazers/)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/promplib?style=social)](https://github.com/baxter-flowers/promplib/stargazers/)
+
+[mjm522/promps_python](https://github.com/mjm522/promps_python): 1D ProMP model with closed-form trajectory controller.
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/mjm522/promps_python?style=social)](https://github.com/mjm522/promps_python/stargazers/)
+
+[sebasutp/promp-cpp](https://github.com/sebasutp/promp-cpp): C++ version of @sebasutp python library.
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+[![GitHub stars](https://img.shields.io/github/stars/sebasutp/promp-cpp?style=social)](https://github.com/sebasutp/promp-cpp/stargazers/)
+
+[herambnemlekar/probabilistic-movement-primitives](https://github.com/herambnemlekar/probabilistic-movement-primitives): Experimental implementation for training ProMPs with the Baxter robot. 
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/probabilistic-movement-primitives?style=social)](https://github.com/herambnemlekar/probabilistic-movement-primitives/stargazers/)
 
 ## Kernelized Movement Primitives
-[yanlongtu/robInfLib-matlab](https://github.com/yanlongtu/robInfLib-matlab):  [![GitHub stars](https://img.shields.io/github/stars/yanlongtu/robInfLib-matlab?style=social)](https://github.com/yanlongtu/robInfLib-matlab/stargazers/)
+[yanlongtu/robInfLib-matlab](https://github.com/yanlongtu/robInfLib-matlab): Demonstrates various functionalities of KMPs. 
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/yanlongtu/robInfLib-matlab?style=social)](https://github.com/yanlongtu/robInfLib-matlab/stargazers/)
 
 
 ## Contextual Neural Movement Primitives
-[myunusseker/CNMP](https://github.com/myunusseker/CNMP):  [![GitHub stars](https://img.shields.io/github/stars/myunusseker/CNMP?style=social)](https://github.com/myunusseker/CNMP/stargazers/)
+[myunusseker/CNMP](https://github.com/myunusseker/CNMP): Full implementation of CNMPs with experiments from the original publication.
 
-[mtuluhanakbulut/ACNMP](https://github.com/mtuluhanakbulut/ACNMP):  [![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/ACNMP?style=social)](https://github.com/mtuluhanakbulut/ACNMP/stargazers/)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/myunusseker/CNMP?style=social)](https://github.com/myunusseker/CNMP/stargazers/)
 
-[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP):  [![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social)](https://github.com/mtuluhanakbulut/RC-NMP/stargazers/)
+[mtuluhanakbulut/ACNMP](https://github.com/mtuluhanakbulut/ACNMP): Experimental implementation and simulation for adaptive CNMP.
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/ACNMP?style=social)](https://github.com/mtuluhanakbulut/ACNMP/stargazers/)
+
+[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP): reward CNMP for population-based variational policy optimization. 
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+[![GitHub stars](https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social)](https://github.com/mtuluhanakbulut/RC-NMP/stargazers/)
 
 
 ## Fourier Movement Primitives
 
-[nag92/pdblib-matlab](https://github.com/nag92/pdblib-matlab):  [![GitHub stars](https://img.shields.io/github/stars/nag92/pdblib-matlab?style=social)](https://github.com/nag92/pdblib-matlab/stargazers/)
+[nag92/pdblib-matlab](https://github.com/nag92/pdblib-matlab): Demos for a wide variety of programming by demonstration frameworks including FMPs.
+
+![matlab](https://img.shields.io/badge/matlab-%20-blue)
+[![GitHub stars](https://img.shields.io/github/stars/nag92/pdblib-matlab?style=social)](https://github.com/nag92/pdblib-matlab/stargazers/)
 
 
 ## Other Approaches
-[ir-lab/intprim](https://github.com/ir-lab/intprim):  [![GitHub stars](https://img.shields.io/github/stars/ir-lab/intprim?style=social)](https://github.com/ir-lab/intprim/stargazers/)
+[ir-lab/intprim](https://github.com/ir-lab/intprim): Complete framework for learning controllers for human-robot interaction applications using Bayesian Interaction Primitives
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/ir-lab/intprim?style=social)](https://github.com/ir-lab/intprim/stargazers/)
 
 
 
 ## Citing This Work
 
+This repository was made in support of the following survey paper:
+
+
+```
+@article{cloud2023movement,
+  title={Movement Primitives in Robotics: A Survey},
+  author={Cloud, Joseph M and Beksi, William J},
+  journal={arXiv preprint arXiv:TBD.TBD},
+  year={2023}
+}
+```
