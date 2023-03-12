@@ -22,7 +22,9 @@ and other methods.
 ## Dynamic Movement Primitives
 
 ### Software
-[studywolf/pydmps](https://github.com/studywolf/pydmps): Tutorial and applications of DMPs. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
+[studywolf/pydmps](https://github.com/studywolf/pydmps): Tutorial and applications of DMPs. 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+[![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
 
 [stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization (BBO) with DMPs. ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) [![GitHub stars](https://img.shields.io/github/stars/stulp/dmpbbo?style=social)](https://github.com/stulp/dmpbbo/stargazers/)
 
@@ -62,23 +64,23 @@ and other methods.
 
 [chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar):  [![GitHub stars](https://img.shields.io/github/stars/chauby/DMP_chebotar?style=social)](https://github.com/chauby/DMP_chebotar/stargazers/)
 
-[stulp/dmp_bbo_matlab_deprecated](https://github.com/stulp/dmp_bbo_matlab_deprecated):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmp_bbo_matlab_deprecated?style=social)](https://github.com/stulp/dmp_bbo_matlab_deprecated/stargazers/)
-
 [carlos22/pydmp](https://github.com/carlos22/pydmp):  [![GitHub stars](https://img.shields.io/github/stars/carlos22/pydmp?style=social)](https://github.com/carlos22/pydmp/stargazers/)
-
-[mathiasesn/obstacle_avoidance_with_dmps](https://github.com/mathiasesn/obstacle_avoidance_with_dmps):  [![GitHub stars](https://img.shields.io/github/stars/mathiasesn/obstacle_avoidance_with_dmps?style=social)](https://github.com/mathiasesn/obstacle_avoidance_with_dmps/stargazers/)
 
 [dgerod/more-dmps](https://github.com/dgerod/more-dmps):  [![GitHub stars](https://img.shields.io/github/stars/dgerod/more-dmps?style=social)](https://github.com/dgerod/more-dmps/stargazers/)
 
-[xukechun/DMPs-learning](https://github.com/xukechun/DMPs-learning):  [![GitHub stars](https://img.shields.io/github/stars/xukechun/DMPs-learning?style=social)](https://github.com/xukechun/DMPs-learning/stargazers/)
+[mathiasesn/obstacle_avoidance_with_dmps](https://github.com/mathiasesn/obstacle_avoidance_with_dmps):  [![GitHub stars](https://img.shields.io/github/stars/mathiasesn/obstacle_avoidance_with_dmps?style=social)](https://github.com/mathiasesn/obstacle_avoidance_with_dmps/stargazers/)
 
 [dkebude/DMP-gen](https://github.com/dkebude/DMP-gen):  [![GitHub stars](https://img.shields.io/github/stars/dkebude/DMP-gen?style=social)](https://github.com/dkebude/DMP-gen/stargazers/)
+
+[stulp/dmp_bbo_matlab_deprecated](https://github.com/stulp/dmp_bbo_matlab_deprecated):  [![GitHub stars](https://img.shields.io/github/stars/stulp/dmp_bbo_matlab_deprecated?style=social)](https://github.com/stulp/dmp_bbo_matlab_deprecated/stargazers/)
 
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):  [![GitHub stars](https://img.shields.io/github/stars/cloudy/dmp-obstacle-avoidance?style=social)](https://github.com/cloudy/dmp-obstacle-avoidance/stargazers/)
 
 [abakisita/dmp_motion](https://github.com/abakisita/dmp_motion):  [![GitHub stars](https://img.shields.io/github/stars/abakisita/dmp_motion?style=social)](https://github.com/abakisita/dmp_motion/stargazers/)
 
 [shobhit6993/egraphs-with-dmp](https://github.com/shobhit6993/egraphs-with-dmp):  [![GitHub stars](https://img.shields.io/github/stars/shobhit6993/egraphs-with-dmp?style=social)](https://github.com/shobhit6993/egraphs-with-dmp/stargazers/)
+
+[xukechun/DMPs-learning](https://github.com/xukechun/DMPs-learning):  [![GitHub stars](https://img.shields.io/github/stars/xukechun/DMPs-learning?style=social)](https://github.com/xukechun/DMPs-learning/stargazers/)
 
 [baxter-flowers/dmp_lib](https://github.com/baxter-flowers/dmp_lib):  [![GitHub stars](https://img.shields.io/github/stars/baxter-flowers/dmp_lib?style=social)](https://github.com/baxter-flowers/dmp_lib/stargazers/)
 
