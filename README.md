@@ -20,8 +20,13 @@ and other methods.
 
 ## Dynamic Movement Primitives
 
+### Papers
+ - [Schaal, S. (2006). Dynamic movement primitives-a framework for motor control in humans and humanoid robotics. *Adaptive motion of animals and machines*, 261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
+ - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S. (2013). Dynamical movement primitives: learning attractor models for motor behaviors. *Neural computation*, 25(2), 328-373.](https://direct.mit.edu/neco/article-abstract/25/2/328/7850/Dynamical-Movement-Primitives-Learning-Attractor)
+ - [Saveriano, M., Abu-Dakka, F. J., Kramberger, A., & Peternel, L. (2021). Dynamic movement primitives in robotics: A tutorial survey. *arXiv preprint arXiv:2102.03861.*](https://arxiv.org/abs/2102.03861)
+
 ### Software
-[studywolf/pydmps](https://github.com/studywolf/pydmps): Tutorial and applications with minimal library dependencies. 
+[studywolf/pydmps](https://github.com/studywolf/pydmps): DMP tutorial and applications with minimal library dependencies. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
@@ -43,7 +48,7 @@ and other methods.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/dfki-ric/movement_primitives?style=social)](https://github.com/dfki-ric/movement_primitives/stargazers/)
 
-[chauby/PyDMPs_Chauby](https://github.com/chauby/PyDMPs_Chauby): Implementation for simulated UR5 robot in CoppeliaSim (V-REP).
+[chauby/PyDMPs_Chauby](https://github.com/chauby/PyDMPs_Chauby): DMPs for simulated UR5 robot in CoppeliaSim (V-REP).
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 [![GitHub stars](https://img.shields.io/github/stars/chauby/PyDMPs_Chauby?style=social)](https://github.com/chauby/PyDMPs_Chauby/stargazers/)
@@ -294,6 +299,12 @@ and other methods.
 
 
 ## Probabilistic Movement Primitives
+
+### Papers
+ - [Paraschos, A., Daniel, C., Peters, J. R., & Neumann, G. (2013). Probabilistic movement primitives. *Advances in neural information processing systems*, 26.](https://proceedings.neurips.cc/paper/2013/hash/e53a0a2978c28872a4505bdb51db06dc-Abstract.html)
+ - [Gomez-Gonzalez, S., Neumann, G., Schölkopf, B., & Peters, J. (2020). Adaptation and robust learning of probabilistic movement primitives. *IEEE Transactions on Robotics*, 36(2), 366-379.](ttps://ieeexplore.ieee.org/abstract/document/9020014)
+
+### Software
 [dfki-ric/movement_primitives](https://github.com/dfki-ric/movement_primitives): Various MP frameworks including DMPs (with spatially coupled support) and ProMPs. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -325,6 +336,12 @@ and other methods.
 [![GitHub stars](https://img.shields.io/github/stars/herambnemlekar/probabilistic-movement-primitives?style=social)](https://github.com/herambnemlekar/probabilistic-movement-primitives/stargazers/)
 
 ## Kernelized Movement Primitives
+
+### Papers
+ - [Huang, Y., Rozo, L., Silvério, J., & Caldwell, D. G. (2019). Kernelized movement primitives. *The International Journal of Robotics Research*, 38(7), 833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
+ - [Silvério, J., Huang, Y., Abu-Dakka, F. J., Rozo, L., & Caldwell, D. G. (2019, November). Uncertainty-aware imitation learning using kernelized movement primitives. *In 2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)* (pp. 90-97). IEEE.](https://ieeexplore.ieee.org/abstract/document/8967996)
+
+### Software
 [yanlongtu/robInfLib-matlab](https://github.com/yanlongtu/robInfLib-matlab): Demonstrates various functionalities of KMPs. 
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -332,7 +349,13 @@ and other methods.
 [![GitHub stars](https://img.shields.io/github/stars/yanlongtu/robInfLib-matlab?style=social)](https://github.com/yanlongtu/robInfLib-matlab/stargazers/)
 
 
-## Contextual Neural Movement Primitives
+## Conditional Neural Movement Primitives
+
+### Papers
+ - [Seker, M. Y., Imre, M., Piater, J. H., & Ugur, E. (2019, June). Conditional Neural Movement Primitives. *In Robotics: Science and Systems* (Vol. 10).](https://roboticsproceedings.org/rss15/p71.pdf)
+ - [Akbulut, M., Oztop, E., Seker, M. Y., Hh, X., Tekden, A., & Ugur, E. (2021, October). ACMP: Skill transfer and task extrapolation through learning from demonstration and reinforcement learning via representation sharing. *In Conference on Robot Learning* (pp. 1896-1907). PMLR.](https://proceedings.mlr.press/v155/akbulut21a.html)
+
+### Software
 [myunusseker/CNMP](https://github.com/myunusseker/CNMP): Full implementation of CNMPs with experiments from the original publication.
 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -357,6 +380,11 @@ and other methods.
 
 ## Fourier Movement Primitives
 
+### Papers
+ - [Kulak, T., Silvério, J., & Calinon, S. (2020, June). Fourier movement primitives: an approach for learning rhythmic robot skills from demonstrations. *In Robotics: Science and Systems*. (Vol. 11).](https://roboticsconference.org/2020/program/papers/56.html)
+
+
+### Software
 [nag92/pdblib-matlab](https://github.com/nag92/pdblib-matlab): Demos for a wide variety of programming by demonstration frameworks including FMPs.
 
 ![matlab](https://img.shields.io/badge/matlab-%20-blue)
