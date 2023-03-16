@@ -40,8 +40,8 @@ and other methods.
 ### Software
 [studywolf/pydmps](https://github.com/studywolf/pydmps): DMP tutorial and applications with minimal library dependencies. 
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-[![GitHub stars](https://img.shields.io/github/stars/studywolf/pydmps?style=social)](https://github.com/studywolf/pydmps/stargazers/)
+<img src="./ico/python.png" height="20" /> 
+<img src="https://img.shields.io/github/stars/studywolf/pydmps?style=social" height="20" /> 
 
 [stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization (BBO) with DMPs. 
 
