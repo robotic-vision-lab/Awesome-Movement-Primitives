@@ -38,11 +38,7 @@ for i, line in enumerate(lines):
         if match_ghs in line[:len(match_str)+1]:
             shield_link = line.split('(')[1].split(')')[0]
             stargazer_link = line.split(')')[1].split('(')[1]
-            desired_badge = line.split('[')[1].split(']')[0].lower()
-            if desired_badge in icos:
-                badge = [b for b in icos if desired_badge in b][0]
-                line[i] = f'<img src="./{badge}" height="20" /> \n'
-
+            lines[i] = f'<a href="{stargazer_link}"><img src="{shield_link}" height="20" /></a> \n'
 
 
 with open('README.md', 'w') as f:
