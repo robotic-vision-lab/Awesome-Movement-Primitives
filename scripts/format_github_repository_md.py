@@ -41,5 +41,14 @@ for i, line in enumerate(lines):
             lines[i] = f'<a href="{stargazer_link}"><img src="{shield_link}" height="20" /></a> \n'
 
 
+# wrap paragraph so badges are on same line
+
+for i, line in enumerate(lines):
+    if len(line) > 10 and i > 0:
+        if '<img' in line[:10] and len(lines[i-1]) < 3:
+            lines[i-1] = '\n<p float="left">\n'
+        if '</a>' in line[-10:] and len(lines[i+1]) < 3:
+            lines[i+1] = '</p>\n\n'
+
 with open('README.md', 'w') as f:
     f.writelines(lines)
