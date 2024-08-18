@@ -538,6 +538,24 @@ KIT-developed kit/DynamicMovementPrimitive wrapper combined with Via-Point Movem
 <img src="./ico/cpp.png" height="20" /> 
 </p>
 
+<!-- Created: 2023-10-03 -->
+[giobraglia/Geometric-Dynamic-Motion-Primitives](https://github.com/giobraglia/Geometric-Dynamic-Motion-Primitives): Geometric Dynamic Motion Primitives (GDMP) to decouple transformation system from timing law.
+
+<p float="left">
+<img src="./ico/matlab.png" height="20" /> 
+<a href="https://github.com/giobraglia/Geometric-Dynamic-Motion-Primitives/stargazers/"><img src="https://img.shields.io/github/stars/giobraglia/Geometric-Dynamic-Motion-Primitives?style=social" height="20" /></a> 
+</p>
+
+<!-- Created: 2024-06-19 -->
+[matteodv99tn/dmp_ros2](https://github.com/matteodv99tn/dmp_ros2): ROS2 wrapper for a DMP library. Includes data collection and processing utilities.
+
+<p float="left">
+<img src="./ico/ros.png" height="20" /> 
+<img src="./ico/cpp.png" height="20" /> 
+<img src="./ico/python.png" height="20" /> 
+<a href="https://github.com/matteodv99tn/dmp_ros2/stargazers/"><img src="https://img.shields.io/github/stars/matteodv99tn/dmp_ros2?style=social" height="20" /></a> 
+</p>
+
 ## Probabilistic Movement Primitives
 
 ### Papers
