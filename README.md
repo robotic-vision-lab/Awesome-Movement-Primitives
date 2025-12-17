@@ -2,7 +2,7 @@
 # Awesome Movement Primitives  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Links to software implementations of movement primitive (MP) frameworks and
-core papers, including: dynamic MPs, probabilistic MPs, kernelized MPs,
+core papers including dynamic MPs, probabilistic MPs, kernelized MPs,
 conditional neural MPs, Fourier MPs, and other methods. All links are in
 chronological order.
 
