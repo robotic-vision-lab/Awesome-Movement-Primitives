@@ -29,7 +29,7 @@ chronological order.
 ### Dynamic Movement Primitives
 
 #### Papers
- - [Schaal, S. (2003). Dynamic movement primitives-a framework for motor control
+ - [Schaal, S. (2003). Dynamic movement primitives - a framework for motor control
    in humans and humanoid robotics. *Adaptive motion of animals and machines*,
    261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
  - [Ijspeert, A. J., Nakanishi, J., Hoffmann, H., Pastor, P., & Schaal, S.
@@ -89,8 +89,8 @@ Illustrative notebooks for understanding concepts.
 </p>
 
 <!-- Created: 2014-02-21 -->
-[stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines Black-box optimization
-(BBO) with DMPs. 
+[stulp/dmpbbo](https://github.com/stulp/dmpbbo): Combines black-box
+optimization with DMPs. 
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -99,8 +99,8 @@ Illustrative notebooks for understanding concepts.
 </p>
 
 <!-- Created: 2014-05-19 -->
-[awesomebytes/dmp_gestures](https://github.com/awesomebytes/dmp_gestures): Use
-cameras to capture gestures to learn and generate DMPs executed through MoveIt!. 
+[awesomebytes/dmp_gestures](https://github.com/awesomebytes/dmp_gestures): Uses
+cameras to capture gestures to learn and generate DMPs executed through MoveIt. 
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -119,8 +119,8 @@ applications with minimal library dependencies.
 
 <!-- Created: 2015-11-15 -->
 [shobhit6993/egraphs-with-dmp](https://github.com/shobhit6993/egraphs-with-dmp):
-DMPs are integrated into experience-graph framework to support adaptation to
-unseen obstacles.
+DMPs integrated into experience-graph framework to support adaptation to unseen
+obstacles.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
@@ -129,7 +129,7 @@ unseen obstacles.
 
 <!-- Created: 2015-12-10 -->
 [baxter-flowers/dmp_lib](https://github.com/baxter-flowers/dmp_lib): Wraps
-@studywolf implementation in ROS package.
+@studywolf implementation into ROS package.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -148,8 +148,8 @@ Implementation based on @studywolf DMP.
 
 <!-- Created: 2016-05-12 -->
 [baggepinnen/DynamicMovementPrimitives.jl](https://github.com/baggepinnen/DynamicMovementPrimitives.jl):
-Standard formulation and implementation of 2DoF control for trajectory tracking
-and perturbation recovery.  
+Standard formulation and implementation of 2-DoF control for trajectory
+tracking and perturbation recovery.  
 
 <p float="left">
 <img src="./ico/julia.png" height="20" /> 
@@ -158,7 +158,7 @@ and perturbation recovery.
 
 <!-- Created: 2016-08-20 -->
 [dgerod/more-dmps](https://github.com/dgerod/more-dmps): Implementation on three
-other python DMP libraries. 
+other Python DMP libraries. 
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -176,8 +176,8 @@ implementation for PR2 and WAM robots.
 </p>
 
 <!-- Created: 2017-04-22 -->
-[chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar): Implementation
-supports goal location updates.
+[chauby/DMP_chebotar](https://github.com/chauby/DMP_chebotar): DMP
+implementation that supports goal location updates.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
@@ -186,7 +186,7 @@ supports goal location updates.
 
 <!-- Created: 2017-07-05 -->
 [Dennis-BIRL-GDUT/baxter_dmp_rl](https://github.com/Dennis-BIRL-GDUT/baxter_dmp_rl):
-Workspace for ROS implementation of Baxter pick-and-place.
+Workspace for ROS implementation of Baxter robot pick-and-place.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -197,7 +197,7 @@ Workspace for ROS implementation of Baxter pick-and-place.
 
 <!-- Created: 2017-09-06 -->
 [zhouyou-kit/dmp_exercise](https://github.com/zhouyou-kit/dmp_exercise):
-Educational visualization based on Peter Corke's matlab robotics toolbox.
+Educational visualization based on Peter Corke's MATLAB robotics toolbox.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -214,7 +214,7 @@ Incorporates Lagrangian optimization for adapting to demonstrations.
 </p>
 
 <!-- Created: 2017-10-30 -->
-[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments):  Experimental
+[nag92/dmp_experiments](https://github.com/nag92/dmp_experiments): Experimental
 implementation in two languages.
 
 <p float="left">
@@ -234,7 +234,7 @@ Preditive human-robot handovers using DMPs on the Baxter robot.
 </p>
 
 <!-- Created: 2018-02-08 -->
-[abakisita/dmp_motion](https://github.com/abakisita/dmp_motion): Pre-cursor
+[abakisita/dmp_motion](https://github.com/abakisita/dmp_motion): Precursor
 implementation to author's ROS package.
 
 <p float="left">
@@ -243,8 +243,8 @@ implementation to author's ROS package.
 </p>
 
 <!-- Created: 2018-02-26 -->
-[abakisita/ros_dmp](https://github.com/abakisita/ros_dmp): Package with services
-for learning motion and generating from leart DMP. 
+[abakisita/ros_dmp](https://github.com/abakisita/ros_dmp): Package with
+services for learning motion and generating from an already learned DMP. 
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -292,7 +292,7 @@ languages.
 
 <!-- Created: 2018-05-09 -->
 [suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics](https://github.com/suryakiranmg/Dynamic-Movement-Primitives-and-Imitation-Learning-Robotics):
-Short implementation in matlab.
+Short implementation in MATLAB.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -301,7 +301,7 @@ Short implementation in matlab.
 
 <!-- Created: 2018-08-20 -->
 [Slifer64/DMP_KF](https://github.com/Slifer64/DMP_KF): DMPs implemented with
-kalman filtering and support for Kuka/UR robots.
+Kalman filtering and support for KUKA/UR robots.
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
@@ -312,7 +312,7 @@ kalman filtering and support for Kuka/UR robots.
 
 <!-- Created: 2018-09-04 -->
 [kostasVlachos/dmp_control](https://github.com/kostasVlachos/dmp_control): DMP
-control for Kuka robot.
+control for KUKA robot.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
@@ -322,8 +322,8 @@ control for Kuka robot.
 
 <!-- Created: 2019-01-15 -->
 [MichailTheofanidis/dmp-protoype](https://github.com/MichailTheofanidis/dmp-protoype):
-Experimental implementation of reinforcement-learning based adaptation and robot
-inverse kinematics.
+Experimental implementation of reinforcement learning-based adaptation and
+robot inverse kinematics.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -350,7 +350,7 @@ secondary forcing term for obstacle avoidance.
 
 <!-- Created: 2019-03-26 -->
 [cloudy/dmp-obstacle-avoidance](https://github.com/cloudy/dmp-obstacle-avoidance):
-Human obstacle avoidance demonstrated on Rethink Robotics Sawyer manipulator.
+Human obstacle avoidance demonstrated on Sawyer manipulator.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -358,8 +358,8 @@ Human obstacle avoidance demonstrated on Rethink Robotics Sawyer manipulator.
 </p>
 
 <!-- Created: 2019-03-29 -->
-[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp):  Library based on
-"Overcoming some drawbacks of DMPs" paper.
+[mginesi/dmp_pp](https://github.com/mginesi/dmp_pp): Library based on
+"Overcoming Some Drawbacks of DMPs" paper.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -407,7 +407,7 @@ Incorporates obstacle avoidance and link-collision avoidance.
 
 <!-- Created: 2020-03-09 -->
 [alaradirik/robot-learning](https://github.com/alaradirik/robot-learning):
-Algorithms from university course implemented in numpy.
+Algorithms from university course implemented in NumPy.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -415,8 +415,8 @@ Algorithms from university course implemented in numpy.
 </p>
 
 <!-- Created: 2020-06-17 -->
-[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e Gazebo
-simulation to learn DMPs based on @studywolf's library.
+[Shaluols/ur5e_dmp](https://github.com/Shaluols/ur5e_dmp): Leverages UR5e robot
+Gazebo simulation to learn DMPs based on @studywolf's library.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -446,7 +446,7 @@ three languages with hard real-time support for robot control (C++).
 
 <!-- Created: 2021-04-28 -->
 [Slifer64/GMP](https://github.com/Slifer64/GMP): Generalized MPs based on DMPs.
-Supports online adaptation to via-points and off-line/on-line optimization under
+Supports online adaptation to via points and off-line/on-line optimization under
 kinematic constraints.
 
 <p float="left">
@@ -496,7 +496,7 @@ ProMPs.
 
 <!-- Created: 2022-01-14 -->
 [CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs): Reinforcement
-learning via Policy Improvement with Path Integrals (PI2) 
+learning via policy Improvement with path integrals (PI2) 
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -515,7 +515,7 @@ Cartesian trajectory-based implementation of discrete DMPs. Optimizsed for paral
 
 <!-- Created: 2022-09-14 -->
 [Slifer64/resnet_dmp](https://github.com/Slifer64/resnet_dmp): Uses RGB images
-with resnet network architecture to learn DMPs for planar tasks.
+with ResNet architecture to learn DMPs for planar tasks.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -532,14 +532,14 @@ KIT-developed DMP library with different types of DMPs and function approximator
 
 <!-- Created: 2022-10-14 -->
 [kit/MovementPrimitiveLibrary](https://git.h2t.iar.kit.edu/sw/movement-primitives/movement-primitive-library): 
-KIT-developed kit/DynamicMovementPrimitive wrapper combined with Via-Point Movement Primitives implementation.
+KIT-developed kit/DynamicMovementPrimitive wrapper combined with via point MP implementation.
 
 <p float="left">
 <img src="./ico/cpp.png" height="20" /> 
 </p>
 
 <!-- Created: 2023-10-03 -->
-[giobraglia/Geometric-Dynamic-Motion-Primitives](https://github.com/giobraglia/Geometric-Dynamic-Motion-Primitives): Geometric Dynamic Motion Primitives (GDMP) to decouple transformation system from timing law.
+[giobraglia/Geometric-Dynamic-Motion-Primitives](https://github.com/giobraglia/Geometric-Dynamic-Motion-Primitives): Geometric dynamic motion primitives to decouple transformation system from timing law.
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
@@ -635,7 +635,7 @@ ProMPs.
 </p>
 
 <!-- Created: 2021-12-03 -->
-[imanlab/deep_movement_primitives](https://github.com/imanlab/deep_movement_primitives): ProMP-based Deep MPs for breast cancer examination robot.
+[imanlab/deep_movement_primitives](https://github.com/imanlab/deep_movement_primitives): ProMP-based deep MPs for breast cancer examination robot.
 
 <p float="left">
 <img src="./ico/python.png" height="20" /> 
@@ -707,7 +707,7 @@ implementation and simulation for adaptive CNMP.
 </p>
 
 <!-- Created: 2020-10-31 -->
-[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP): reward CNMP
+[mtuluhanakbulut/RC-NMP](https://github.com/mtuluhanakbulut/RC-NMP): Reward CNMP
 for population-based variational policy optimization. 
 
 <p float="left">
