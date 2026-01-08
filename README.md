@@ -237,7 +237,7 @@ implementation to author's ROS package.
 
 <!-- Created: 2018-02-26 -->
 [abakisita/ros_dmp](https://github.com/abakisita/ros_dmp): Package with
-services for learning motion and generating from an already learned DMP. 
+services for learning motion from a learned DMP. 
 
 <p float="left">
 <img src="./ico/ros.png" height="20" /> 
