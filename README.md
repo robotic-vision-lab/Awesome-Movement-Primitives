@@ -489,7 +489,7 @@ ProMPs.
 
 <!-- Created: 2022-01-14 -->
 [CarlDegio/PI2-DMPs](https://github.com/CarlDegio/PI2-DMPs): Reinforcement
-learning via policy improvement with path integrals (PI2) 
+learning via policy improvement with path integrals (PI2).
 
 <p float="left">
 <img src="./ico/matlab.png" height="20" /> 
