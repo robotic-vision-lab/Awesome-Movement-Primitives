@@ -1,5 +1,5 @@
 <!-- omit in toc -->
-# Awesome Movement Primitives  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+## Awesome Movement Primitives  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Links to software implementations of movement primitive (MP) frameworks and
 core papers including dynamic MPs, probabilistic MPs, kernelized MPs,
@@ -7,7 +7,7 @@ conditional neural MPs, Fourier MPs, and other methods. All links are in
 chronological order.
 
 <!-- omit in toc -->
-## Table of Contents
+### Table of Contents
 - [Dynamic Movement Primitives](#dynamic-movement-primitives)
   - [Papers](#papers)
   - [Software](#software)
@@ -26,9 +26,9 @@ chronological order.
 - [Other Approaches](#other-approaches)
 - [Citing This Work](#citing-this-work)
 
-## Dynamic Movement Primitives
+### Dynamic Movement Primitives
 
-### Papers
+#### Papers
  - [Schaal, S. (2003). Dynamic movement primitives-a framework for motor control
    in humans and humanoid robotics. *Adaptive motion of animals and machines*,
    261-280.](https://link.springer.com/chapter/10.1007/4-431-31381-8_23)
@@ -40,7 +40,7 @@ chronological order.
    Dynamic movement primitives in robotics: A tutorial survey. *arXiv preprint
    arXiv:2102.03861.*](https://arxiv.org/abs/2102.03861)
 
-### Software
+#### Software
 <!-- Created: 2007-03-26 -->
 [clmc/DMP](https://web.archive.org/web/20100226024004/http://www-clmc.usc.edu/Resources/Software):
 Archive link to orignal implementation by Schaal et al. Includes links to
@@ -556,9 +556,9 @@ KIT-developed kit/DynamicMovementPrimitive wrapper combined with Via-Point Movem
 <a href="https://github.com/matteodv99tn/dmp_ros2/stargazers/"><img src="https://img.shields.io/github/stars/matteodv99tn/dmp_ros2?style=social" height="20" /></a> 
 </p>
 
-## Probabilistic Movement Primitives
+### Probabilistic Movement Primitives
 
-### Papers
+#### Papers
  - [Paraschos, A., Daniel, C., Peters, J. R., & Neumann, G. (2013).
    Probabilistic movement primitives. *Advances in neural information processing
    systems*,
@@ -568,7 +568,7 @@ KIT-developed kit/DynamicMovementPrimitive wrapper combined with Via-Point Movem
    Transactions on Robotics*, 36(2),
    366-379.](https://ieeexplore.ieee.org/abstract/document/9020014)
 
-### Software
+#### Software
 <!-- Created: 2016-04-14 -->
 [baxter-flowers/promplib](https://github.com/baxter-flowers/promplib): Features
 interactive learning componenet to automatically cluster primitives based on
@@ -642,9 +642,9 @@ ProMPs.
 <a href="https://github.com/imanlab/deep_movement_primitives/stargazers/"><img src="https://img.shields.io/github/stars/imanlab/deep_movement_primitives?style=social" height="20" /></a> 
 </p>
 
-## Kernelized Movement Primitives
+### Kernelized Movement Primitives
 
-### Papers
+#### Papers
  - [Huang, Y., Rozo, L., Silvério, J., & Caldwell, D. G. (2019). Kernelized
    movement primitives. *The International Journal of Robotics Research*, 38(7),
    833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
@@ -653,7 +653,7 @@ ProMPs.
    primitives. *In Proceedings of the IEEE/RSJ International Conference on Intelligent Robots
    and Systems (IROS)* (pp. 90-97).](https://ieeexplore.ieee.org/abstract/document/8967996)
 
-### Software
+#### Software
 <!-- Created: 2019-07-10 -->
 [yanlongtu/robInfLib-matlab](https://github.com/yanlongtu/robInfLib-matlab):
 Demonstrates various functionalities of KMPs. 
@@ -671,9 +671,9 @@ Demonstrates various functionalities of KMPs.
 <a href="https://github.com/lbusellato/KMP_demos/stargazers/"><img src="https://img.shields.io/github/stars/lbusellato/KMP_demos?style=social" height="20" /></a> 
 </p>
 
-## Conditional Neural Movement Primitives
+### Conditional Neural Movement Primitives
 
-### Papers
+#### Papers
  - [Seker, M. Y., Imre, M., Piater, J. H., & Ugur, E. (2019). Conditional Neural
    Movement Primitives. *In Proceedings of Robotics: Science and Systems* (Vol.
    10).](https://roboticsproceedings.org/rss15/p71.pdf)
@@ -683,7 +683,7 @@ Demonstrates various functionalities of KMPs.
    Proceedings of the Conference on Robot Learning* (pp. 1896-1907).
    PMLR.](https://proceedings.mlr.press/v155/akbulut21a.html)
 
-### Software
+#### Software
 <!-- Created: 2019-02-01 -->
 [myunusseker/CNMP](https://github.com/myunusseker/CNMP): Full implementation of
 CNMPs with experiments from the original publication.
@@ -717,15 +717,15 @@ for population-based variational policy optimization.
 <a href="https://github.com/mtuluhanakbulut/RC-NMP/stargazers/"><img src="https://img.shields.io/github/stars/mtuluhanakbulut/RC-NMP?style=social" height="20" /></a> 
 </p>
 
-## Fourier Movement Primitives
+### Fourier Movement Primitives
 
-### Papers
+#### Papers
  - [Kulak, T., Silvério, J., & Calinon, S. (2020). Fourier movement primitives:
    an approach for learning rhythmic robot skills from demonstrations. *In
    Proceedings of Robotics: Science and Systems*. (Vol.
    11).](https://roboticsconference.org/2020/program/papers/56.html)
 
-### Software
+#### Software
 <!-- Created: 2020-01-12 -->
 [nag92/pdblib-matlab](https://github.com/nag92/pdblib-matlab): Demos for a wide
 variety of programming by demonstration frameworks including FMPs.
@@ -735,7 +735,7 @@ variety of programming by demonstration frameworks including FMPs.
 <a href="https://github.com/nag92/pdblib-matlab/stargazers/"><img src="https://img.shields.io/github/stars/nag92/pdblib-matlab?style=social" height="20" /></a> 
 </p>
 
-## Other Approaches
+### Other Approaches
 <!-- Created: 2014-07-08 -->
 [ir-lab/intprim](https://github.com/ir-lab/intprim): Complete framework for
 learning controllers for human-robot interaction applications using Bayesian
@@ -757,15 +757,15 @@ for robot programming by demonstration.
 
 </p>
 
-## Citing This Work
+### Citing This Work
 
 This repository was made in support of the following survey paper:
 
 ```
-@article{cloud2024movement,
-  title={Movement Primitives in Robotics: A Survey},
-  author={Cloud, Joseph M and Beksi, William J},
-  journal={arXiv preprint arXiv:TBD.TBD},
-  year={2024}
+@article{gutierrez2025movement,
+  title={Movement Primitives in Robotics: A Comprehensive Survey},
+  author={Gutierrez, Nolan B and Beksi, William J},
+  journal={arXiv preprint arXiv:2601.02379},
+  year={2025}
 }
 ```
