@@ -635,7 +635,7 @@ ProMPs.
  - [Huang, Y., Rozo, L., Silvério, J., & Caldwell, D. G. (2019). Kernelized movement primitives. *The International Journal of Robotics Research*, 38(7), pp. 833-852.](https://journals.sagepub.com/doi/pdf/10.1177/0278364919846363)
  - [Silvério, J., Huang, Y., Abu-Dakka, F. J., Rozo, L., & Caldwell, D. G. (2019). Uncertainty-aware imitation learning using kernelized movement primitives. *IEEE/RSJ International Conference on Intelligent Robots and Systems* (pp. 90-97).](https://ieeexplore.ieee.org/abstract/document/8967996)
  - [Huang, Y., & Caldwell, D. G. (2020). A linearly constrained nonparametric framework for imitation learning. *IEEE International Conference on Robotics and Automation*, pp. 4400-4406.](https://ieeexplore.ieee.org/abstract/document/9196821)
- - [Padalkar, A., Stulp, F., Neumann, G., & Silvério, J. (2025). Towards safe and efficient learning in the wild: guiding RL with constrained uncertainty-aware movement primitives. *IEEE Robotics and Automation Letters*, vol. 10, no. 7, pp. 6880-6887.](https://ieeexplore.ieee.org/abstract/document/10982105)
+ - [Padalkar, A., Stulp, F., Neumann, G., & Silvério, J. (2025). Towards safe and efficient learning in the wild: Guiding RL with constrained uncertainty-aware movement primitives. *IEEE Robotics and Automation Letters*, vol. 10, no. 7, pp. 6880-6887.](https://ieeexplore.ieee.org/abstract/document/10982105)
 
 #### Software
 <!-- Created: 2019-07-10 -->
